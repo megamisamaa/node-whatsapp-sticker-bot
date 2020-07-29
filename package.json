@@ -1,0 +1,10 @@
+{
+  "name": "node-wa-sticker-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@open-wa/wa-automate": "^1.9.105",
+    "moment-timezone": "^0.5.31"
+  }
+}
