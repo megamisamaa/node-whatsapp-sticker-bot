@@ -1,4 +1,4 @@
-# node-wa-sticker-bot
+# node-whatsapp-sticker-bot
 
 Simple bot to make stickers from pictures sent or quoted from chat or groups
 
